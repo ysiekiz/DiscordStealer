@@ -1,0 +1,453 @@
+('C:\\Users\\Krzysztof '
+ 'Konopka\\Downloads\\Creal-Stealer-main\\Creal-Stealer-main\\build\\Creal\\Creal.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\Downloads\\Creal-Stealer-main\\Creal-Stealer-main\\build\\Creal\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\Downloads\\Creal-Stealer-main\\Creal-Stealer-main\\build\\Creal\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\Downloads\\Creal-Stealer-main\\Creal-Stealer-main\\build\\Creal\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\Downloads\\Creal-Stealer-main\\Creal-Stealer-main\\build\\Creal\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\Downloads\\Creal-Stealer-main\\Creal-Stealer-main\\build\\Creal\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\Downloads\\Creal-Stealer-main\\Creal-Stealer-main\\build\\Creal\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('Creal',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\Downloads\\Creal-Stealer-main\\Creal-Stealer-main\\Creal.py',
+   'PYSOURCE'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python310.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA224.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_SHA224.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_Salsa20.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_Salsa20.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_chacha20.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_chacha20.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ofb.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_ofb.pyd',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom310.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pywin32_system32\\pythoncom310.dll',
+   'BINARY'),
+  ('Crypto\\PublicKey\\_x25519.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\PublicKey\\_x25519.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_BLAKE2s.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_BLAKE2s.pyd',
+   'BINARY'),
+  ('Crypto\\Protocol\\_scrypt.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Protocol\\_scrypt.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_arc2.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_arc2.pyd',
+   'BINARY'),
+  ('Crypto\\PublicKey\\_ed25519.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\PublicKey\\_ed25519.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_RIPEMD160.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_RIPEMD160.pyd',
+   'BINARY'),
+  ('Crypto\\PublicKey\\_ec_ws.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\PublicKey\\_ec_ws.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_blowfish.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_blowfish.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_pkcs1_decode.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_pkcs1_decode.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA512.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_SHA512.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ecb.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_ecb.pyd',
+   'BINARY'),
+  ('Crypto\\PublicKey\\_ed448.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\PublicKey\\_ed448.pyd',
+   'BINARY'),
+  ('Crypto\\Util\\_cpuid_c.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Util\\_cpuid_c.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_keccak.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_keccak.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_MD4.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_MD4.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_MD5.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_MD5.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_poly1305.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_poly1305.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_ARC4.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_ARC4.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_BLAKE2b.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_BLAKE2b.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_aesni.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_aesni.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_des3.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_des3.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_cbc.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_cbc.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_ghash_clmul.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_ghash_clmul.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_des.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_des.pyd',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes310.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pywin32_system32\\pywintypes310.dll',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_cfb.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_cfb.pyd',
+   'BINARY'),
+  ('Crypto\\Util\\_strxor.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Util\\_strxor.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_eksblowfish.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_eksblowfish.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_cast.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_cast.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_aes.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_aes.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ocb.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_ocb.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_ghash_portable.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_ghash_portable.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA256.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_SHA256.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_MD2.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_MD2.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA384.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_SHA384.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ctr.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Cipher\\_raw_ctr.pyd',
+   'BINARY'),
+  ('Crypto\\Math\\_modexp.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Math\\_modexp.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA1.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Crypto\\Hash\\_SHA1.pyd',
+   'BINARY'),
+  ('win32trace.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32ui.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('_win32sysloader.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32api.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('win32com\\shell\\shell.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp310-win_amd64.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_cffi_backend.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp310-win_amd64.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\charset_normalizer\\md__mypyc.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp310-win_amd64.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\charset_normalizer\\md.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('mfc140u.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\Downloads\\Creal-Stealer-main\\Creal-Stealer-main\\build\\Creal\\base_library.zip',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\Krzysztof '
+   'Konopka\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\RECORD',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\setuptools-65.5.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\top_level.txt',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\setuptools-65.5.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\REQUESTED',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\wheel-0.40.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\INSTALLER',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\setuptools-65.5.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\REQUESTED',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\setuptools-65.5.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\METADATA',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\wheel-0.40.0.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\entry_points.txt',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\wheel-0.40.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\entry_points.txt',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\setuptools-65.5.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\METADATA',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\setuptools-65.5.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\LICENSE',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\setuptools-65.5.0.dist-info\\LICENSE',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\INSTALLER',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\wheel-0.40.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\WHEEL',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\setuptools-65.5.0.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\WHEEL',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\wheel-0.40.0.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\RECORD',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\wheel-0.40.0.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\LICENSE.txt',
+   'c:\\users\\krzysztof '
+   'konopka\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\wheel-0.40.0.dist-info\\LICENSE.txt',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
